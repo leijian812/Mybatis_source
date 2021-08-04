@@ -20,6 +20,8 @@ package com.kkb.mybatis.framework.utils;
  第三方工具类。用于验证
  */
 
+
+
 public interface TokenHandler {
   String handleToken(String content);
 }
